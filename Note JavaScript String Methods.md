@@ -6,6 +6,7 @@ Type: Assignment
 Status: Completed
 
 [JavaScript String Methods](https://www.w3schools.com/js/js_string_methods.asp)
+[JavaScript String Functions | Examples of String Function in JavaScript](https://www.educba.com/javascript-string-functions/)
 
 # JavaScript `string` methods
 
@@ -98,6 +99,20 @@ console.log(part2)
 /*logs:
 fox
 */
+```
+
+`split(delimiter)`
+
+split a string into array items per specified delimiter and returns the array.
+
+```jsx
+let text = "The quick black fox"
+arr = text.split(" ");
+console.log("arr[1]:", arr[1])
+/*logs
+quick
+*/
+
 ```
 
 ### Replacing content
@@ -222,5 +237,41 @@ text = text.trimEnd();
 console.log(text)
 /*logs
    The Quick
+*/
+```
+
+### Searching
+
+`indexOf()`
+
+search and return the index of the first occurrence of argument
+
+- if not found it will return `-1`
+
+```jsx
+let text = "The quick black fox"
+position = text.indexOf("quick");
+console.log(position)
+/*logs
+4
+*/
+```
+
+`lastIndexOf()`
+
+search and return the index of the last occurrence of a mentioned character or substring within the string.
+
+- if not found it will return `-1`
+
+`charAt()`
+
+returns the character that is located at the given position in the string
+
+```jsx
+let text = "The quick black fox"
+char = text.charAt(4);
+console.log(char)
+/*logs
+q
 */
 ```
