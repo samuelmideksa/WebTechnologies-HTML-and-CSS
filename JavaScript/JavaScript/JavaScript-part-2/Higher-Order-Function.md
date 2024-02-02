@@ -1,4 +1,4 @@
-[JavaScript part 0](JavaScript/JavaScript-part-0.md) / [JavaScript part 2](JavaScript/JavaScript-part-2.md) / [Higher Order Function](JavaScript-part-2/Higher-Order-Function.md)
+[JavaScript part 0](JavaScript/JavaScript-part-0.md) / [JavaScript part 2](JavaScript/JavaScript-part-2.md) / [Higher Order Function](#)
 
 # Higher Order Function
 
