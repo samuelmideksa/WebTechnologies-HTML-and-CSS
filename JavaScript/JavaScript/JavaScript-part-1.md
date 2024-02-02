@@ -1,4 +1,4 @@
-[JavaScript](../JavaScript.md) / [JavaScript part 1](#)
+[JavaScript](../JavaScript.md) / JavaScript part 1
 
 
 
