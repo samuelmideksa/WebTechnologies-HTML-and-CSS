@@ -1,2 +1,2 @@
 # WebTechnologies-HTML-and-CSS
-Notes and markups on HTML and CSS for Web Technologies Course.
+Notes and markups from Comp 356 - Web Technologies Course.
