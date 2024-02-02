@@ -1,4 +1,4 @@
-[HTML and CSS](../HTML-and-CSS.md) / [CSS](HTML-and-CSS/CSS.md)
+[HTML and CSS](../HTML-and-CSS.md) / [CSS](#)
 
 # CSS
 
