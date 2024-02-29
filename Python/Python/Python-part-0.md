@@ -1,10 +1,8 @@
-# Python
+[Python](../Python.md) / Python part 0
 
-Course: Web Technologies (https://www.notion.so/Web-Technologies-9040d79d92844804bec7c112fc8e43e6?pvs=21)
-Note type: Lecture Note
-Lecture date: January 27, 2024
+# Python part 0
 
-[Python](https://www.notion.so/Python-8263e4adf7214480ba2b65256e11d2f2?pvs=21) 
+ 
 
 Variable declaration
 
